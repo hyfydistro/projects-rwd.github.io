@@ -6,4 +6,4 @@ Responsive Web Designs Projects.
 
 * theodore-roosevelt
 A tribute page.
-link: https://hyfydistro.github.io/projects-rwd.github.io/
+link: https://hyfydistro.github.io/projects-rwd.github.io/theodore-roosevelt
